@@ -5,7 +5,7 @@ public class ReplaceWithEvenorOdd {
 	public static void main(String[] args) {
 		
 		ReplaceWithEvenorOdd obj=new ReplaceWithEvenorOdd();
-		obj.replaceOddEven(7);
+		obj.replaceOddEven(6);
 	}
 public void replaceOddEven(int num) {
 	int a[]= {10,11,13,16,18,19};
