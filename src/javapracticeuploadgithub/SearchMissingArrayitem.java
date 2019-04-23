@@ -13,7 +13,8 @@ public class SearchMissingArrayitem {
 		SearchMissingArrayitem obj=new SearchMissingArrayitem();
 		obj.searchMissedArrayElement(arr,10);
 	}
-	public void searchMissedArrayElement(int arr[],int num) {
+public void searchMissedArrayElement(int arr[],int num) 
+{
 		
 int sum=0,sum1=0;
 		
