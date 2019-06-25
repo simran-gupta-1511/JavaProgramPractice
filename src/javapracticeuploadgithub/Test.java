@@ -4,7 +4,8 @@ import java.util.HashSet;
 
 class Animal{
 	int i=13;
-	public Animal() {
+	public Animal() 
+	{
 		int i=12;
 		
 	}

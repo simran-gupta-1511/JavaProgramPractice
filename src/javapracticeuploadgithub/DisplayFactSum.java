@@ -14,7 +14,7 @@ public class DisplayFactSum {
 	return fact;
 	}
 
-	public static void main(String[] args) {		
+public static void main(String[] args) {		
 Scanner s= new Scanner(System.in);
 System.out.println("enter the desined number for fact: ");
 int n=s.nextInt();
